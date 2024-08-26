@@ -72,12 +72,12 @@
   <hr>
   <img src="Readme_Image's/Feature_Seven.jpg" alt="Folder 3" style="max-width:100%;">  
   <hr>
-  <p>Memory pointers will be pasted in the scroll box at the bottom of the cheat engine. The "Memory Pointer Found:" prints out the total discovered memory pointers of the current differential search sequence. A progress bar also tracks how long the process memory scan is taking.</p>
-  <p>Memory addresses can be clicked on, and copied using Ctrl + c for later</p>
+  <li>Memory pointers will be pasted in the scroll box at the bottom of the cheat engine. The "Memory Pointer Found:" prints out the total discovered memory pointers of the current differential search sequence. A progress bar also tracks how long the process memory scan is taking.</li>
+  <li>Memory addresses can be clicked on, and copied using Ctrl + c for later</li>
   <hr>
   <img src="Readme_Image's/Feature_Six.jpg" alt="Folder 3" style="max-width:100%;">  
   <hr>
-  <p>Now you have your memory pointer, you can paste it inside the "Enter Memory Location:" box. The write to memory will allow writing a specific arithmetic value, based on the type you selected during that specific search process. Write will alter the value in memory.</p>
+  <li>Now you have your memory pointer, you can paste it inside the "Enter Memory Location:" box. The write to memory will allow writing a specific arithmetic value, based on the type you selected during that specific search process. Write will alter the value in memory.</li>
   </ul>
   <hr>
 
