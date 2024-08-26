@@ -16,5 +16,5 @@
 </div>
 
 <div>
-  <h3 id="Setup">How to Setup</h3>
+  <h2 id="Setup">How to Setup</h2>
 </div>
