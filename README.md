@@ -30,8 +30,6 @@
     <hr>
     <img src="Readme_Image's/Instruct_Two.jpg" alt="Folder 3" style="max-width:100%;">
     <br>
-    <img src="Readme_Image's/Instruct_Three.jpg" alt="Folder 3" style="max-width:100%;">
-    <hr>
     <li><b>On the drop-down menu, select the bottom option to download the repository as a Zip</b></li>
     </div>
     <div>
