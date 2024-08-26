@@ -46,7 +46,40 @@
     </div>
   </ol>
 </div>
-
+<hr>
+      
 <div>
   <h2 id="Features">Features</h2>
+  <img src="Readme_Image's/Feature_One.jpg" alt="Folder 3" style="max-width:100%;">#
+  <hr>
+  <p>Above is the complete look of the cheat engine:</p>
+  <ul>
+    <li>Buttons <b>"By Window"</b> and <b>"By Process"</b> allow the selection of specific processes/windows with which to start the memory reading differential algorithm. Clicking on the drop-down box and selecting said process will update the process id label on the right hand side</li>
+  <hr>
+  <img src="Readme_Image's/Feature_Three.jpg" alt="Folder 3" style="max-width:100%;">  
+  <hr>
+  <p>Search for value is where you can select the data type for searching memory locations in the process. The data types include:</p>
+    <ul>
+      <li><b>Signed Integer 32-bit</b></li>
+      <li><b>Unsigned Integer 32-bit</b></li>
+      <li><b>Signed Integer 64-bit</b></li>
+      <li><b>Unsigned Integer 64-bit</b></li>
+      <li><b>Float</b></li>
+      <li><b>Double</b></li>
+    </ul>
+    <li>When clicking the search button, the first step of the differential search occurs. A list of memory locations (if any), is sent back to the user, where additional searches will shave down the list till only a few memory locations remain or the list is empty</li>
+    <li>clearSearch clears a given differential search, so you may restart the process of searching again</li>
+  <hr>
+  <img src="Readme_Image's/Feature_Seven.jpg" alt="Folder 3" style="max-width:100%;">  
+  <hr>
+  <p>Memory pointers will be pasted in the scroll box at the bottom of the cheat engine. The "Memory Pointer Found:" prints out the total discovered memory pointers of the current differential search sequence. A progress bar also tracks how long the process memory scan is taking.</p>
+  <p>Memory addresses can be clicked on, and copied using Ctrl + c for later</p>
+  <hr>
+  <img src="Readme_Image's/Feature_Six.jpg" alt="Folder 3" style="max-width:100%;">  
+  <hr>
+  <p>Now you have your memory pointer, you can paste it inside the "Enter Memory Location:" box. The write to memory will allow writing a specific arithmetic value, based on the type you selected during that specific search process. Write will alter the value in memory.</p>
+  </ul>
+  <hr>
+
+  <p><b>A short example GIF below -></b></p>
 </div>
