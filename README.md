@@ -7,14 +7,13 @@
 </div>
 
 <div>
+   <h2>Table of Contents</h2>
   <ul>
     <li><a href="#Setup">How to Setup</a></li>
     <li><a href="#Features">Features</a></li>
     <li><a href="Limitations">Limitations</a></li>
   </ul>
 </div>
-
-<hr>
 
 <div>
   <h3 id="Setup">How to Setup</h3>
