@@ -14,6 +14,8 @@
   </ul>
 </div>
 
+<hr>
+
 <div>
   <h3 id="Setup">How to Setup</h3>
 </div>
