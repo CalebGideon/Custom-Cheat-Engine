@@ -24,7 +24,7 @@
     <hr>
     <img src="Readme_Image's/Instruct_One.jpg" alt="Folder 3" style="max-width:100%;">
     <hr>
-    <li><b>To download the Cheat Engine, click on code<> on the right-hand side of the repository</b></li>
+    <li><b>To download the Cheat Engine, click the <>code button on the right-hand side of the repository</b></li>
     </div>
     <div>
     <hr>
